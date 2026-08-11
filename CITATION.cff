@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "PRISM: Application- and Process-Attributed Network Traffic Dataset"
+type: dataset
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+    affiliation: "Korea University"
+year: 2026
+license: CC-BY-4.0
+repository-code: "https://github.com/illiard1209/PRISM-2026-Dataset"
+url: "https://github.com/illiard1209/PRISM-2026-Dataset/releases/latest"

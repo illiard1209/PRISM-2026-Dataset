@@ -1,0 +1,8 @@
+data/
+out/
+*.tar.zst
+*.pcap
+__pycache__/
+*.pyc
+# 익명화 역매핑 키 — 절대 커밋 금지
+ipmap.json
