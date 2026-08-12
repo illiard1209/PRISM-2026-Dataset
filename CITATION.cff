@@ -1,12 +1,55 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use this dataset, please cite the paper below."
 title: "PRISM: Application- and Process-Attributed Network Traffic Dataset"
 type: dataset
 authors:
-  - family-names: "TODO"
-    given-names: "TODO"
-    affiliation: "Korea University"
+  - family-names: "Kim"
+    given-names: "Ji-min"
+    affiliation: "Korea University, Department of Computer Science and Software Engineering"
+  - family-names: "Yu"
+    given-names: "Gyeong-min"
+    affiliation: "Korea University, Department of Computer Science and Software Engineering"
+  - family-names: "Jang"
+    given-names: "Yun-Seong"
+    affiliation: "Korea University, Department of Computer Information and Science"
+  - family-names: "Nam"
+    given-names: "Seung-Woo"
+    affiliation: "Korea University, Department of Computer Information and Science"
+  - family-names: "Kim"
+    given-names: "Ju-Sung"
+    affiliation: "Korea University, Department of Computer Information and Science"
+  - family-names: "Kim"
+    given-names: "Myung-Sup"
+    affiliation: "Korea University, Department of Computer Science and Software Engineering"
+    email: "tmskim@korea.ac.kr"
 year: 2026
+version: "1.0.0"
 license: CC-BY-4.0
 repository-code: "https://github.com/illiard1209/PRISM-2026-Dataset"
 url: "https://github.com/illiard1209/PRISM-2026-Dataset/releases/latest"
+keywords:
+  - network traffic classification
+  - traffic dataset
+  - automatic labeling
+  - endpoint-based labeling
+  - encrypted traffic
+preferred-citation:
+  type: article
+  title: "PRISM-2026: A Multi-Level Network Traffic Dataset with Endpoint-Based Automatic Labeling"
+  authors:
+    - family-names: "Kim"
+      given-names: "Ji-min"
+    - family-names: "Yu"
+      given-names: "Gyeong-min"
+    - family-names: "Jang"
+      given-names: "Yun-Seong"
+    - family-names: "Nam"
+      given-names: "Seung-Woo"
+    - family-names: "Kim"
+      given-names: "Ju-Sung"
+    - family-names: "Kim"
+      given-names: "Myung-Sup"
+  journal: "KNOM Review"
+  volume: 29
+  issue: 1
+  year: 2026
